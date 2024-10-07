@@ -1,2 +1,2 @@
 # zestauth
-zest auth liberary for simple authentication
+testing repo for zest auth library for simple authentication
